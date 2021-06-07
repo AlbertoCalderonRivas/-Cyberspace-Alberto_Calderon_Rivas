@@ -16,26 +16,32 @@ Un TFG de Alberto Calderón Rivas realizado en 2021 para la ETSAM .
 
 
     Muchas gracias.
-    
-    ^+xw*"""^q_  0 p" F  F _F  p^^"___jM   j  F              F
-      _,,__   q x" [  F J_ J  P  w""""_  _,"  9  _m^`"*____x"    _____
- v,,_w"   "M_ @ `, ",_!u_9__L F #  r^""^^"    f j"      "      _*"   "6_
-     _,,__  B 9_ "v,_Zp*"""""^@u# P _m^"^u,a*"  j   ____       9       ""
-   _F    `4 A_ "*-ap"            ^Lj" _smu,    _* ,-"   9_   _wf
- ^^"__,,_ jL  -- m<                5j! ____*-*^   &       """"     ___
-   p"    9p`^u,av'   This artwork   `,*""""q_   _x" _aa,_        p^" ""u
- ,r  _____!L___,M     is computer    Lsr--x_"^^`" qP     9      J      `M
-   y^    "_    _J      enhanced.     L_,,_ ?_    _#       ^v- -^"
-  _F  __,_`^---"jr                  j___ ""y""^^""_,-r-u_
- r^ j!    ?s_, *"jp                g""""^q_b_    _F     "p      j^^""-w
-    L  _,wma_  _x"jN__          __d"""^c  F  "-^""  _    "c____j'      L
-   j" J"    """  _F 99Nu______g**L_""s  4 A,    _P"""^q_    ""         "-
- m^  j_  _-^""mw^" _' # 9"N""L ^, "s  b #   "--^"      0
-      @ j"   _v-wa+" ," j  #  p  r j qF "q_   _*-wu_   9,     y^`"^w_
-   _,!  0_  f   _m-**" _F _F  L _FjP ?,    "^""    "u    "---^      j
- """     # J   j"   p"""p-^ x^ p" d_   -q__a-mw_    j               `L
-        V  `q  #   f   j   4   b   ^,   __      6_  ?,     _,__       "--
- *`^ww-"     F 9L_ b   1   4   `u_   "-^""*,    jh    ^-xm*"   9z
-            )    0 `+a_ W__ 9,___"^^"+_     L   0                k
-     _x-*v+"     9    0   "b    "_    "p   _0   `&    ___       d_
+                          
+                     __gggrgM**M#mggg__
+                 __wgNN@"B*P""mp""@d#"@N#Nw__
+               _g#@0F_a*F#  _*F9m_ ,F9*__9NG#g_
+            _mN#F  aM"    #p"    !q@    9NL "9#Qu_
+           g#MF _pP"L  _g@"9L_  _g""#__  g"9w_ 0N#p
+         _0F jL*"   7_wF     #_gF     9gjF   "bJ  9h_
+        j#  gAF    _@NL     _g@#_      J@u_    2#_  #_
+       ,FF_#" 9_ _#"  "b_  g@   "hg  _#"  !q_ jF "*_09_
+       F N"    #p"      Ng@       `#g"      "w@    "# t
+      j p#    g"9_     g@"9_      gP"#_     gF"q    Pb L
+      0J  k _@   9g_ j#"   "b_  j#"   "b_ _d"   q_ g  ##
+      #F  `NF     "#g"       "Md"       5N#      9W"  j#
+      #k  jFb_    g@"q_     _*"9m_     _*"R_    _#Np  J#
+      tApjF  9g  J"   9M_ _m"    9%_ _*"   "#  gF  9_jNF
+       k`N    "q#       9g@        #gF       ##"    #"j
+       `_0q_   #"q_    _&"9p_    _g"`L_    _*"#   jAF,'
+        9# "b_j   "b_ g"    *g _gF    9_ g#"  "L_*"qNF
+         "b_ "#_    "NL      _B#      _I@     j#" _#"
+           NM_0"*g_ j""9u_  gP  q_  _w@ ]_ _g*"F_g@
+            "NNh_ !w#_   9#g"    "m*"   _#*" _dN@"
+               9##g_0@q__ #"4_  j*"k __*NF_g#@P"
+                 "9NN#gIPNL_ "b@" _2M"Lg#N@F"
+                     ""P@*NN#gEZgNN@#@P""
 
+
+                        This artwork  
+                         is computer    
+                          enhanced. 
