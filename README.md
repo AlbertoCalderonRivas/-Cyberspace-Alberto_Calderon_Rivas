@@ -13,7 +13,6 @@ Un TFG de Alberto Calderón Rivas realizado en 2021 para la ETSAM .
 
 
 →El contenido de este proyecto se distribuye bajo licencia de código libre GNU GPLv3. Si vas a usar o modificar el código para un proyecto personal te recomiendo que leas las implicaciones de esta licencia, así como informarte de las implicaciones del Copyleft y por qué es una herramienta legal tan interesante para luchar contra el copyright abusivo.
-
                           
                      __gggrgM**M#mggg__
                  __wgNN@"B*P""mp""@d#"@N#Nw__
