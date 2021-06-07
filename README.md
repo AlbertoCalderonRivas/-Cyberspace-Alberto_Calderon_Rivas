@@ -19,11 +19,11 @@ Un TFG de Alberto Calderón Rivas realizado en 2021 para la ETSAM .
                  __wgNN@"B*P""mp""@d#"@N#Nw__
                _g#@0F_a*F#  _*F9m_ ,F9*__9NG#g_
             _mN#F  aM"    #p"    !q@    9NL "9#Qu_
-           g#MF _pP"L  _g@"9L_  _g""#__  g"9w_ 0N#p                        Muchas gracias. 
-         _0F jL*"   7_wF     #_gF     9gjF   "bJ  9h_                      Dudas o comentarios a:
+           g#MF _pP"L  _g@"9L_  _g""#__  g"9w_ 0N#p          Muchas gracias. 
+         _0F jL*"   7_wF     #_gF     9gjF   "bJ  9h_        Dudas o comentarios a:
         j#  gAF    _@NL     _g@#_      J@u_    2#_  #_
-       ,FF_#" 9_ _#"  "b_  g@   "hg  _#"  !q_ jF "*_09_                    → Email- albertocalderonrivas@gmail.com
-       F N"    #p"      Ng@       `#g"      "w@    "# t                    → IG- @azufre_rosa  
+       ,FF_#" 9_ _#"  "b_  g@   "hg  _#"  !q_ jF "*_09_        → Email- albertocalderonrivas@gmail.com
+       F N"    #p"      Ng@       `#g"      "w@    "# t        → IG- @azufre_rosa  
       j p#    g"9_     g@"9_      gP"#_     gF"q    Pb L
       0J  k _@   9g_ j#"   "b_  j#"   "b_ _d"   q_ g  ##
       #F  `NF     "#g"       "Md"       5N#      9W"  j#
